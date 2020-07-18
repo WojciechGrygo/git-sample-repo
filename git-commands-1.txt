@@ -8,3 +8,9 @@ git add
 git commit -am ""
 git logs
 Git diff <filename>
+
+-------------------------------------------------------------------------------
+
+Scenario:
+1 person --> Two different features
+Work on different branches
