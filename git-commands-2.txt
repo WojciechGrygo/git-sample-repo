@@ -1,0 +1,10 @@
+git status -> check information about repository
+git init
+git config --global user.name "blablabla" -> secify username
+git config --global user.email "blablabla"
+git config global user.name "blablabla"
+git config global user.email "blablabla"
+git add
+git commit -am ""
+git logs
+Git diff <filename>
