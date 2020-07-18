@@ -1,4 +1,4 @@
-git status
+git status -> check information about repository
 git init
 git config --global user.name "blablabla"
 git config --global user.email "blablabla"
@@ -6,5 +6,5 @@ git config global user.name "blablabla"
 git config global user.email "blablabla"
 git add
 git commit -am ""
-git log
+git logs
 Git diff <filename>
