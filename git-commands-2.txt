@@ -7,4 +7,6 @@ git config global user.email "blablabla"
 git add
 git commit -am ""
 git logs
-Git diff <filename>
+git diff <filename> -> show last changes on the file
+git remote and origin <GitHub Repository URL>
+git push
